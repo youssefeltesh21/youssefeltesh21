@@ -13,7 +13,7 @@ A full-stack AI and graphics pipeline designed to detect anomalous or incorrect 
 * **Computer Vision:** Utilized MediaPipe for precise human pose estimation and landmark extraction from image datasets.
 * **Machine Learning:** Trained a deep anomaly detection model (Autoencoder) exclusively on the true class to identify incorrect movements.
 * **3D Visualization:** Built a custom C++ and OpenGL engine to render a 3D character and perform real-time pose retargeting from the extracted landmarks.
-* [Link to Repository] | https://youtu.be/0fm4o_dDE0I
+* https://github.com/youssefeltesh21/GradProject.git | https://youtu.be/0fm4o_dDE0I
 
 ### 🧠 Academic & Systems Projects
 * **AI Planning Solver:** Implemented STRIPS and Resolution algorithms for automated problem solving.
