@@ -1,9 +1,10 @@
-# Hi there, I'm [Your Name] 👋
+# Youssef Eltesh
 
-I am a Computer Science software engineer with a strong focus on artificial intelligence, computer vision, and systems architecture. I enjoy bridging the gap between machine learning models and 3D graphics.
+I am a Computer Science software engineer with a strong focus on Mobile app development using flutter and artificial intelligence 
 
-🎯 **Current Focus:** Reaching B1 fluency in German and optimizing 3D visualization engines.
-📫 **Reach me at:** [Your LinkedIn Link] | [Your Email]
+📫 **Reach me at:** www.linkedin.com/in/youssef-mohamed-elsayed-ali-abdelhamid-eltesh-a3a1592bb
+
+ | youssefeltesh21@gmail.com
 
 ---
 
