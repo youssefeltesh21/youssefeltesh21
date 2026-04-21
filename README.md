@@ -2,7 +2,7 @@
 
 I am a Computer Science software engineer with a strong focus on Data analysis and artificial intelligence 
 
-📫 **Reach me at:** www.linkedin.com/in/youssef-mohamed-elsayed-ali-abdelhamid-eltesh-a3a1592bb
+📫 **Reach me at:** www.linkedin.com/in/youssef-eltesh-a3a1592bb
 
  | youssefeltesh21@gmail.com
 
