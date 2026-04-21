@@ -1,6 +1,6 @@
 # Youssef Eltesh
 
-I am a Computer Science software engineer with a strong focus on Mobile app development using flutter and artificial intelligence 
+I am a Computer Science software engineer with a strong focus on Data analysis and artificial intelligence 
 
 📫 **Reach me at:** www.linkedin.com/in/youssef-mohamed-elsayed-ali-abdelhamid-eltesh-a3a1592bb
 
